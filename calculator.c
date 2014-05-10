@@ -1,5 +1,4 @@
 /* program by Maadadi Imad */
-/* Assignment #2 */
 
 #include <stdio.h>
 int main(void)
